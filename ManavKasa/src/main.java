@@ -32,5 +32,6 @@ public class main {
         toplamTutar = (armutTutar*armutKilo) + (elmaKilo*elmaTutar) + (domatesKilo*domatesTutar) +
                 (muzKilo*muzTutar) + (patlicanKilo*patlicanTutar);
         System.out.println("Toplam Tutar : " + toplamTutar);
+
     }
 }
