@@ -1,4 +1,5 @@
 # Ebok ve Ekok Bulan Program
 
 
-<img src="img/ebobekok.jpg"></img>
+<img src="img/ebokekok.jpg"></img>
+
