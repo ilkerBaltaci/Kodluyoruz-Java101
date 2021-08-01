@@ -1,3 +1,3 @@
 # Ebok ve Ekok Bulan Program
 
-<img src="ebobekok.jpg"></img>
+<img src="img/ebobekok.jpg"></img>
