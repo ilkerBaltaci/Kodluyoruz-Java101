@@ -4,4 +4,4 @@
 - Öğrencilerin sınav notu, sözlü notu ve ortalamalarının hesaplaması yapılabiliyor.
 - Öğretmenlerin hangi dersi anlatacağının ataması yapılıyor.
 
-<img src="ogrencisistemi.jpg"></img>
+<img src="img/ogrencisistemi.jpg"></img>
