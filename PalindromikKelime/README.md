@@ -1,3 +1,3 @@
 # Palindromik Kelime
 
-<img src="palindromik.jpg"></img>
+<img src="img/palindromik.jpg"></img>
